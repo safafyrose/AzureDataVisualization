@@ -1,7 +1,7 @@
 Login Details:
 Username: admin
 Password: password123
------------------------------------------------------------------------------------------------------------
+# # # #
 
 
 I explored the power of Azure for data management and Power BI for data visualization. In this project, I set up SQL Server in Azure and created a database to manage and analyze large datasets. Using Azure Data Studio, I designed tables and populated them with over 1,000 rows of data, ensuring everything was structured to support insightful queries and reporting.
